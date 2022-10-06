@@ -7,8 +7,12 @@ Welcome to Intro to Software Engineering Course with c++ Repository
 <h4>Course Presentation</h4>
 <ul>
   <li>Introduction to Computer Science :https://www.slideshare.net/MohamedEssam195/introduction-to-software-engineering-lecture-0</li>
-  <li>Introduction to C++:https://www.slideshare.net/MohamedEssam195/introduction-to-software-engineering-with-c
-</li>
+  <li>Introduction to C++:https://www.slideshare.net/MohamedEssam195/introduction-to-software-engineering-with-c</li>
+  <li>Introduction to OOP:https://www.slideshare.net/MohamedEssam195/oopadvanced-programming-with-c</li>
+  <li>Introduction to Algorithms:https://www.slideshare.net/MohamedEssam195/introduction-to-algorithms-251626440</li>
+  <li>Introduction to Data Strucure:https://www.slideshare.net/MohamedEssam195/data-strucure-with-stl</li>
+  <li>Introduction to Data Base:https://www.slideshare.net/MohamedEssam195/sql-253376986</li>
+
 
 </ul>
 

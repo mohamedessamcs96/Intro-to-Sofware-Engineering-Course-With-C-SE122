@@ -4,6 +4,14 @@
 Welcome to Intro to Software Engineering Course with c++ Repository 
 <br>
 
+<h4>Course Presentation</h4>
+<ul>
+  <li>Introduction to Computer Science :https://www.slideshare.net/MohamedEssam195/introduction-to-software-engineering-lecture-0</li>
+  <li>Introduction to C++:https://www.slideshare.net/MohamedEssam195/introduction-to-software-engineering-with-c
+</li>
+
+</ul>
+
 <a href="https://docs.google.com/spreadsheets/d/1o3h0MGCJll2eRZrl_pwuAj1nf2ATr2Pu/edit#gid=1860972642">Real world problem Solving Google Sheet link</a>
 
 

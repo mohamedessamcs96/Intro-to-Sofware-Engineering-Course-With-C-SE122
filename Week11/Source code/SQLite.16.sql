@@ -1,0 +1,2 @@
+DELETE FROM Orders 
+WHERE ProductID =1

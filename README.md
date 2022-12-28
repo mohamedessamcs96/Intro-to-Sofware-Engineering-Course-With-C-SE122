@@ -19,6 +19,13 @@ Welcome to Intro to Software Engineering Course with c++ Repository
 <a href="https://docs.google.com/spreadsheets/d/1o3h0MGCJll2eRZrl_pwuAj1nf2ATr2Pu/edit#gid=1860972642">Real world problem Solving Google Sheet link</a>
 
 
+<p>Github sheet cheat:</p>
+<img src="n082uxea33j6zq3mca7u.png" />
+<p>Authentication Pushing Problem:</p>https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
+
+
 #### by: Mohamed Essam 
 #### Email:mhmd96.essam@gmail.com
 #### Linkedin:https://www.linkedin.com/in/mohamedessamomar/
